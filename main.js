@@ -1,7 +1,8 @@
 // Grab values from the submitted form in the URL
 const words = new URLSearchParams(window.location.search);
 
-console.log(URLSearchParams);
+console.log("what a flaming pile of trash!");
+
 // Cleans up and capitalizes the names of the animals
 function cleanAndCap (str){
   if(!str) return null
